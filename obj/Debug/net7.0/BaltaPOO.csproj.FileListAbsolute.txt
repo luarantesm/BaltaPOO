@@ -1,0 +1,15 @@
+D:\Projetos\BaltaPOO\bin\Debug\net7.0\BaltaPOO.exe
+D:\Projetos\BaltaPOO\bin\Debug\net7.0\BaltaPOO.deps.json
+D:\Projetos\BaltaPOO\bin\Debug\net7.0\BaltaPOO.runtimeconfig.json
+D:\Projetos\BaltaPOO\bin\Debug\net7.0\BaltaPOO.dll
+D:\Projetos\BaltaPOO\bin\Debug\net7.0\BaltaPOO.pdb
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\BaltaPOO.csproj.AssemblyReference.cache
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\BaltaPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\BaltaPOO.AssemblyInfoInputs.cache
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\BaltaPOO.AssemblyInfo.cs
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\BaltaPOO.csproj.CoreCompileInputs.cache
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\BaltaPOO.dll
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\refint\BaltaPOO.dll
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\BaltaPOO.pdb
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\BaltaPOO.genruntimeconfig.cache
+D:\Projetos\BaltaPOO\obj\Debug\net7.0\ref\BaltaPOO.dll
